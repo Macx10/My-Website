@@ -1,2 +1,2 @@
 # My Website
- A weebsite to show my details
+ A simple website in django with html and css to show my details
